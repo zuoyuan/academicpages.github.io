@@ -30,5 +30,4 @@ Email: skywatcher.buaa AT gmail.com;    zuoyuan AT buaa.edu.cn
 
 (Please replace AT by @)
 
-<script
- type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=9osu0yyDaRG4SQIevEaYDLFmcMR_H07ph8rcVwCnF9s"></script>
+<a href="https://clustrmaps.com/site/19j0v" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=300&t=n&d=9osu0yyDaRG4SQIevEaYDLFmcMR_H07ph8rcVwCnF9s&co=ffffff&ct=808080" /></a>
