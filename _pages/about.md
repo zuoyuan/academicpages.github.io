@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Yuan Zuo received his Ph.D. degree from Beihang University, Beijing, China, in 2017. He is currently a postdoctor in Information Systems Department of Beihang University. His research interests include data mining and machine learning.
+
 Postdoc
 -------------
 
@@ -18,3 +20,7 @@ Beihang University
 Beijing, 100191, P. R. China
 
 Office: A717, New Main Building
+
+Email: skywatcher.buaa AT gmail.com;    zuoyuan AT buaa.edu.cn
+
+(Please replace AT by @)
