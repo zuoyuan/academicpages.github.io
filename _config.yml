@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yuan Zuo"
+title                    : "Welcome to my homepage"
 title_separator          : "-"
 name                     : &name "Yuan Zuo"
 description              : &description "Postdoc at Beihang University"
