@@ -1,7 +1,7 @@
 ---
 title: "Complementary Aspect-based Opinion Mining Across Asymmetric Collections"
 collection: publications
-permalink: /publication/CAMLE_ICDM
+permalink: /publication/CAMEL_ICDM
 excerpt: 'This paper is about complementary aspect-based opinion mining.'
 date: 2015
 venue: 'ICDM'
