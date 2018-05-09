@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuan Zuo"
+title: "About me"
 excerpt: "左源, Yuan Zuo's home page, from Beihang University(BUAA) ,whose research interests include topic modeling, opinion mining and deep learning."
 author_profile: true
 redirect_from: 
