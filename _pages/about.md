@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuan Zuo received his Ph.D. degree from Beihang University, Beijing, China, in 2017. He is currently a postdoctor in Information Systems Department of Beihang University. His B.Eng is received in Computer Science from Tianjin University of Technology, Tianjin, PRC. His research interests include data mining and machine learning.
+Yuan Zuo received his Ph.D. degree from Beihang University, Beijing, PRC, in 2017. He is currently a postdoctor in Information Systems Department of Beihang University. His B.Eng is received in Computer Science from Tianjin University of Technology, Tianjin, PRC. His research interests include data mining and machine learning.
 
 News:
 -------------
