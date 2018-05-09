@@ -8,4 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Zuo Account's home on the web!
+This is Dr. Yuan Zuo's home on the web! My previous [homepage](http://ipv6.nlsde.buaa.edu.cn/zuoyuan/) is deprecated. 
+
+Yuan Zuo
+=============
+
+Postdoc
+-------------
+
+School of Economics and Management 
+Beihang University
+Beijing, 100191, P. R. China
+
+Office: A717, New Main Building
