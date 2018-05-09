@@ -3,7 +3,7 @@ title: "Word Network Topic Model: A Simple but General Solution for Short and Im
 collection: publications
 permalink: /publication/WNTM
 excerpt: 'This paper is about a new topic model for short and imbalanced texts.'
-date: 2016
+date: 2016-08-01
 venue: 'Knowledge and Information System (KAIS)'
 paperurl: 'http://zuoyuan.github.io/files/wntm_kais.pdf'
 citation: 'Yuan Zuo, Jichang Zhao and Ke Xu. Word Network Topic Model: a Simple but General Solution for Short and Imbalanced Texts. KAIS, 2016.'

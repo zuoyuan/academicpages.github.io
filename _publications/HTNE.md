@@ -3,7 +3,7 @@ title: "Embedding Temporal Network via Neighborhood Formation"
 collection: publications
 permalink: /publication/HTNE
 excerpt: 'This paper is about embedding temporal network.'
-date: 2018
+date: 2018-08-01
 venue: 'SIGKDD'
 paperurl: 'http://zuoyuan.github.io/files/KDD18_paper_874.pdf'
 citation: 'Yuan Zuo, Guannan Liu, Hao Lin, Jia Guo, Xiaoqian Hu, Junjie Wu. 2018. Embedding Temporal Network via Neighborhood Formation. In Proceedings of KDD’2018.'

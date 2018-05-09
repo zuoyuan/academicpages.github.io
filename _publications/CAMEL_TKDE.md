@@ -3,7 +3,7 @@ title: "Complementary Aspect-Based Opinion Mining"
 collection: publications
 permalink: /publication/CAMEL_TKDE
 excerpt: 'This paper is about aspect-based opinion mining.'
-date: 2018
+date: 2018-02-01
 venue: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
 paperurl: 'https://ieeexplore.ieee.org/document/8071005/'
 citation: 'Yuan Zuo, Junjie Wu, Hui Zhang, Deqing Wang and Ke Xu. Complementary Aspect-based Opinion Mining, TKDE, 2017.'

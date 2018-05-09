@@ -3,7 +3,7 @@ title: "Complementary Aspect-based Opinion Mining Across Asymmetric Collections"
 collection: publications
 permalink: /publication/CAMEL_ICDM
 excerpt: 'This paper is about complementary aspect-based opinion mining.'
-date: 2015
+date: 2015-11-01
 venue: 'ICDM'
 paperurl: 'http://zuoyuan.github.io/files/camel_icdm15.pdf'
 citation: 'Yuan Zuo, Junjie Wu, Hui Zhang, Deqing Wang, Hao Lin, Fei Wang and Ke Xu. Complementary Aspect-based Opinion Mining Across Asymmetric Collections, ICDM, 2015.'
