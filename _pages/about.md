@@ -29,3 +29,6 @@ Office: A717, New Main Building
 Email: skywatcher.buaa AT gmail.com;    zuoyuan AT buaa.edu.cn
 
 (Please replace AT by @)
+
+<script
+ type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=9osu0yyDaRG4SQIevEaYDLFmcMR_H07ph8rcVwCnF9s"></script>
