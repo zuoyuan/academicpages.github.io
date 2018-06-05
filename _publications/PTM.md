@@ -12,6 +12,6 @@ Recent years have witnessed the unprecedented growth of online social media, whi
 
 [Download paper here](http://zuoyuan.github.io/files/ptm_kdd16.pdf)
 
-[Download code here](http://zuoyuan.github.io/files/ptm.tar.gz)
+[Download code here](http://zuoyuan.github.io/files/ptm.zip)
 
 Recommended citation: Yuan Zuo, Junjie Wu, Hui Zhang, Hao Lin, Fei Wang, Ke Xu and Hui Xiong. Topic Modeling of Short Texts: A Pseudo-Document View, KDD, 2016.
