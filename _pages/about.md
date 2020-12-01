@@ -15,7 +15,7 @@ News:
 * One full paper accepted in KDD 2018: Embedding Temporal Network via Neighborhood Formation.
 * Previous homepage (http://ipv6.nlsde.buaa.edu.cn/zuoyuan/) is deprecated.
 
-Postdoc
+Associate professor
 -------------
 
 School of Economics and Management 
