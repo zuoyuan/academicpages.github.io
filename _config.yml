@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome to my homepage"
 title_separator          : "-"
 name                     : &name "Yuan Zuo"
-description              : &description "Associate professor at Beihang University"
+description              : &description "Associate Professor at Beihang University"
 url                      : https://zuoyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zuoyuan/zuoyuan.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Yuan Zuo"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at Beihang University, expert in text mining."
+  bio              : "Associate Professor at Beihang University, expert in text mining."
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=y2aWdXwAAAAJ&hl=en"
